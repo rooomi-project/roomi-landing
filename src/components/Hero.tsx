@@ -109,10 +109,7 @@ function PhoneMockup() {
                 rotate: swipeDirection * 15,
                 opacity: 0,
               }}
-              transition={{
-                exit: { duration: 0.5, ease: "easeIn" },
-                enter: { duration: 0.3, ease: "easeOut" },
-              }}
+              transition={{ duration: 0.4, ease: "easeInOut" }}
               className="absolute inset-0 rounded-xl border border-border bg-card shadow-lg"
               style={{ zIndex: 20 }}
             >
