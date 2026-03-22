@@ -1,0 +1,99 @@
+{
+  "nav": {
+    "howItWorks": "How It Works",
+    "features": "Features",
+    "cities": "Cities",
+    "faq": "FAQ",
+    "cta": "Get Started",
+    "language": "עב"
+  },
+  "hero": {
+    "badge": "Tinder for apartments, TikTok experience",
+    "title1": "Find your perfect",
+    "title2": "roommate",
+    "title3": "in one swipe",
+    "subtitle": "Scroll like TikTok, swipe like Tinder, find your next home. Roomi connects people looking for apartments with apartments looking for people. No agents, no hassle.",
+    "cta": "Start Scrolling",
+    "ctaSecondary": "iOS Coming Soon",
+    "stats1": "1,000+",
+    "stats1Label": "Apartments",
+    "stats2": "5,000+",
+    "stats2Label": "Users",
+    "stats3": "98%",
+    "stats3Label": "Satisfaction"
+  },
+  "howItWorks": {
+    "badge": "TikTok + Tinder = Roomi",
+    "title": "How does it work?",
+    "step1Title": "Scroll like TikTok",
+    "step1Desc": "A full-screen vertical feed with apartments tailored just for you. Scroll, watch, discover new listings all the time.",
+    "step2Title": "Swipe like Tinder",
+    "step2Desc": "Found an apartment you love? Hit like! The host gets notified and can check out your profile.",
+    "step3Title": "Match & Connect",
+    "step3Desc": "When both sides like each other, it's a match! Start chatting and schedule a viewing."
+  },
+  "features": {
+    "badge": "Everything in one place",
+    "title": "Why Roomi?",
+    "f1Title": "Smart Feed",
+    "f1Desc": "A TikTok-style vertical feed that learns what you're looking for and shows apartments that match you perfectly",
+    "f2Title": "Built-in Chat",
+    "f2Desc": "Talk directly with hosts after matching, no need to hunt for phone numbers",
+    "f3Title": "Open Houses",
+    "f3Desc": "Get invitations to open houses and schedule visits with one tap",
+    "f4Title": "Detailed Profiles",
+    "f4Desc": "Tell your story, share your lifestyle, and find a real match",
+    "f5Title": "Interactive Map",
+    "f5Desc": "View apartments on the map and discover new neighborhoods that fit you",
+    "f6Title": "No Agents",
+    "f6Desc": "Direct connection between renters and hosts. No fees, no middlemen"
+  },
+  "cities": {
+    "badge": "Where are we?",
+    "title": "Our Cities",
+    "subtitle": "Roomi is active in Israel's major cities. More coming soon!",
+    "tlv": "Tel Aviv - Jaffa",
+    "tlvDesc": "Florentin, Neve Tzedek, Old North and more",
+    "jlm": "Jerusalem",
+    "jlmDesc": "Nachlaot, City Center, Rehavia and more",
+    "haifa": "Haifa",
+    "haifaDesc": "Hadar, Carmel, Downtown and more",
+    "beer": "Beer Sheva",
+    "beerDesc": "Old City, Ramot, Neve Ze'ev and more"
+  },
+  "cta": {
+    "title": "Be the First to Try Roomi",
+    "subtitle": "We're building a better way to find roommates and apartments. Join the waitlist and get early access when we launch.",
+    "button": "Join the Waitlist",
+    "note": "Free to join. No spam, ever."
+  },
+  "faq": {
+    "title": "FAQ",
+    "q1": "Is Roomi free?",
+    "a1": "Yes! Roomi is completely free for renters and hosts. No fees, no hidden charges.",
+    "q2": "How does matching work?",
+    "a2": "When you like an apartment, the host gets notified. If they like you back — it's a match and you can start chatting.",
+    "q3": "Can I list an apartment?",
+    "a3": "Of course! Sign up as a host, upload photos and details, and your apartment appears in the feed for matching renters.",
+    "q4": "Is there user verification?",
+    "a4": "Yes, all users go through a verification process. We make sure profiles are real so you feel safe.",
+    "q5": "Which cities is Roomi in?",
+    "a5": "Currently we're active in Tel Aviv, Jerusalem, Haifa and Beer Sheva. More cities coming!",
+    "q6": "How is Roomi different from Facebook groups?",
+    "a6": "Instead of scrolling through hundreds of posts, Roomi has a personalized feed, two-way matching, built-in chat, and verified profiles. A complete experience in one place."
+  },
+  "footer": {
+    "tagline": "Tinder for apartments, TikTok experience. Find roommates and apartments in Israel.",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "about": "About",
+    "blog": "Blog",
+    "careers": "Careers",
+    "contact": "Contact",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved",
+    "madeWith": "Made with"
+  }
+}
